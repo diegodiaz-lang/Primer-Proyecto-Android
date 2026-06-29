@@ -1,0 +1,7 @@
+Si ya creaste un proyecto Empty Activity en Android Studio:
+
+1. Copia el contenido de app/src/main/res de este proyecto al tuyo.
+2. Copia MainActivity.java y ajusta la primera línea package si tu paquete es diferente.
+3. Verifica que AndroidManifest.xml apunte a .MainActivity y use @style/AppTheme.
+4. Agrega AppCompat a dependencies si tu proyecto todavía no la incluye.
+5. Conserva el nombre fondo_android.9.png exactamente como aparece.
