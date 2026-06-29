@@ -31,4 +31,3 @@ Proyecto base en Java que cumple con la actividad:
 4. Cambia el idioma del dispositivo para revisar las cuatro traducciones.
 5. Prueba orientación vertical, horizontal, teléfono y tableta.
 
-Si Android Studio solicita actualizar Gradle o el SDK, acepta la actualización sugerida.
